@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad:ital,wght@0,400..700;1,400..700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Afacad", sans-serif;
+}
+
+body {
+    display: flex;
+    min-height: 100px;
+    justify-content: center;
+    align-content: center;
+    background-color: #141D2B;
+    overflow-x: hidden;
+}
+
+.wrapper {
+    color: #FFFFFF;
+    width: 420px;
+    position: relative;    
+}
+
+.wrapper h2 {
+    font-weight: lighter;
+}
+
+.wrapper h3 {
+    font-weight: lighter;
+}
+
+
+.wrapper2 {
+    width: 420px;
+}
